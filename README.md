@@ -4,8 +4,8 @@
 [World Happiness Report 2023](https://worldhappiness.report/)
 
 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn Logo" width="200" height="200"> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn Logo" width="200" height="100"> 
 
-<img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib Logo" width="200" height="200"> 
+<img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib Logo" width="200" height="150"> 
 
 
