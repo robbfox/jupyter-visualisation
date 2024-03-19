@@ -2,7 +2,7 @@
 
 ## Description
 
-The World Happiness Report 2023 project is a data analysis example aimed at exploring the dynamics of happiness and well-being across world nations. Reading data from the World Happiness Report, the project investigates various socio-economic factors influencing life satisfaction, including GDP per capita, social support, health, freedom, generosity, and perceptions of corruption.
+The World Happiness Report 2023 project is a data analysis exercise aimed at exploring the dynamics of happiness and well-being across world nations. Reading data from the World Happiness Report, the project investigates various socio-economic factors influencing life satisfaction, including GDP per capita, social support, health, freedom, generosity, and perceptions of corruption.
 
 ## Table of Contents
 
@@ -13,9 +13,6 @@ The World Happiness Report 2023 project is a data analysis example aimed at expl
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-The World Happiness Report 2023 project investigates the intricate interplay of socio-economic factors affecting the happiness and well-being of nations worldwide. Through data analysis and visualization, the project aims to unravel patterns, correlations, and insights within the dataset to understand what contributes to a nation's happiness.
 
 ## Data Analysis Goals
 
