@@ -26,7 +26,7 @@ The World Happiness Report 2023 project is a data analysis exercise aimed at exp
 
 - Python (Programming Language)
 - pandas (Data Analysis Library)
-- seaborn (Data Visualization Library)
+- seaborn and matplotlib (Data Visualization Libraries)
 - scikit-learn (Machine Learning Library)
 
 ## Usage
