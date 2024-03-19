@@ -33,9 +33,16 @@ The World Happiness Report 2023 project is a data analysis exercise aimed at exp
 
 To replicate the analysis:
 
-1. Install the required libraries (pandas, seaborn, matplotlib, scikit-learn).
-2. Download the World Happiness Report dataset (whr.csv).
-3. Run the provided Python scripts for data exploration, analysis, and visualization.
+1. Clone the project
+2. Install the required libraries:
+````
+pip install -r requirements.txt
+````
+2. Run the notebook inside the project
+````
+jupyter notebook
+````
+3. Open and run the visualised.ipynb file in for data exploration, analysis, and visualization.
 
 ## Contributing
 
