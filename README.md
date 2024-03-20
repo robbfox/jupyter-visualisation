@@ -15,8 +15,8 @@ The World Happiness Report 2023 project is a data analysis exercise aimed at exp
 
 ## Data Analysis Goals
 
-- **Data Exploration and Cleaning:** Investigate missing values, handle duplicated rows, and ensure data integrity.
-- **Comparative Analysis:** Compare key metrics like GDP per capita, social support, and life expectancy across selected countries.
+- **Data Exploration and Cleaning:** Investigate missing values, check for duplicated rows, and ensure data integrity.
+- **Comparative Analysis:** Compare key metrics like GDP per capita, and life expectancy across selected countries.
 - **Correlation Examination:** Scrutinize relationships between variables such as wealth, health, generosity, and life satisfaction.
 - **Imputation and Prediction:** Impute missing data and make predictions using KNNImputer.
 - **Insights Generation:** Distill meaningful insights to inform policymakers, researchers, and stakeholders interested in fostering well-being.
