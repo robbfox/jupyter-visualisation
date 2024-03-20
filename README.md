@@ -6,7 +6,6 @@ The World Happiness Report 2023 project is a data analysis exercise aimed at exp
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Data Analysis Goals](#data-analysis-goals)
 - [Tools and Libraries](#tools-and-libraries)
 - [Usage](#usage)
