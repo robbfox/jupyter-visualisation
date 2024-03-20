@@ -30,9 +30,9 @@ The World Happiness Report 2023 project is a data analysis exercise aimed at exp
 
 ## Usage
 
-The code runs automatically in Github, so simply click on the visualised.ipynb file here to view the plots.
+The code runs automatically in Github, simply click on the visualised.ipynb file here to view the plots.
 
-However, should you wish to run the analysis on your local environment:
+However, should you wish to run the analysis in your local environment:
 
 1. Clone the project
 2. Install the required libraries:
